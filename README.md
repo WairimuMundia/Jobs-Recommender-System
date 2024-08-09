@@ -1,2 +1,3 @@
 # Jobs-Recommender-System
-Using Machine Learning and Artificial Intelligence to build a job recommender system
+Leveraging AI and Machine Learning to Build an Intelligent Job Recommender System
+
